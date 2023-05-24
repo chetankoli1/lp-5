@@ -3,11 +3,14 @@
 
 2. [Write a program to implement Parallel Bubble Sort and Merge sort using OpenMP. Use existing algorithms and measure the performance of sequential and parallel algorithms.](HPC/ParalleMergeAndBubble/MergeAndBubbleSort.md)
 
+
 3. [Implement Min, Max, Sum and Average operations using Parallel Reduction](HPC/MInAndMaxAvg/min.md)
 
 4. [Write a CUDA Program for: 1. Addition of two large vectors 2 . Matrix Multiplication using CUDA C](HPC/CUDA/cuda.md)
 
 5. [Implement HPC application for AI/ML domain](HPC/aiml.md)
+
+6. [Withouth CUDA](HPC/CUDA/cuda.md)
 
 # Deep Learning
 

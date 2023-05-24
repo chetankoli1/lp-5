@@ -5,7 +5,7 @@
 
 3. [Implement Min, Max, Sum and Average operations using Parallel Reduction](HPC\MInAndMaxAvg\min.md)
 
-4. [Write a CUDA Program for: 1. Addition of two large vectors 2 . Matrix Multiplication using CUDA C](HPC\CUDA\cuda.md)
+4. [Write a CUDA Program for: 1. Addition of two large vectors 2 . Matrix Multiplication using CUDA C]([HPC\CUDA\cuda.md](https://github.com/chetankoli1/lp-5/blob/main/HPC/CUDA/cuda.md))
 
 5. [Implement HPC application for AI/ML domain](HPC\aiml.md)
 

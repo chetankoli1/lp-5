@@ -10,7 +10,7 @@
 
 5. [Implement HPC application for AI/ML domain](HPC/aiml.md)
 
-6. [Withouth CUDA](HPC/CUDA/cuda.md)
+6. [Withouth CUDA](HPC/CUDA/nocuda.md)
 
 # Deep Learning
 
